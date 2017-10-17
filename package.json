@@ -1,0 +1,24 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "node.js测试",
+  "main": "helloworld.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoloin/node-test.git"
+  },
+  "author": "zoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoloin/node-test/issues"
+  },
+  "homepage": "https://github.com/zoloin/node-test#readme"
+}
